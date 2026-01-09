@@ -1,0 +1,20 @@
+body {
+            font-family: Arial, sans-serif; /* Fuente según guía [cite: 54, 112] */
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .back-link {
+            display: block;
+            margin-top: 20px;
+            text-decoration: none;
+            color: #555;
+        }
